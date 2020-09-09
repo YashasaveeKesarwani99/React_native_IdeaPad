@@ -1,2 +1,2 @@
-# React_native_IdeaPad
+# react_native_authenticate
 Created with CodeSandbox
